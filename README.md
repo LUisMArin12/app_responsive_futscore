@@ -124,7 +124,7 @@ Desarrollar una solución digital integral que permita a los usuarios:
   _[Enlace por definir]_
 
 - 💻 **Evidencia Técnica:**  
-  _[Enlace por definir]_
+  https://futscore-n1fn.onrender.com/
 
 ---
 
