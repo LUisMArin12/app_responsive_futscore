@@ -121,7 +121,7 @@ Desarrollar una solución digital integral que permita a los usuarios:
 ## 🔗 Enlaces Relevantes
 
 - 🎨 **Mockups en Figma:**  
-  _[Enlace por definir]_
+  https://www.figma.com/design/gshnl49sPiFwRo1DbAbJht/Untitled?node-id=0-1&p=f&t=oGGzwPvFAxUeDYqY-0
 
 - 💻 **Evidencia Técnica:**  
   https://futscore-n1fn.onrender.com/
